@@ -34,17 +34,17 @@
 ## Roles
 
 ***1. Abhishek Satpathy:***
-    - ***Implementing the MLP model using scikit-learn.***
-    - ***Will test different activation functions (ReLU, Sigmoid, Tanh).***
-    - ***Will also handle model training and tuning hyperparameters.***
-    - ***Will create visualizations to explain how each activation function impacts model performance.***
+- ***Implementing the MLP model using scikit-learn.***
+- ***Will test different activation functions (ReLU, Sigmoid, Tanh).***
+- ***Will also handle model training and tuning hyperparameters.***
+- ***Will create visualizations to explain how each activation function impacts model performance.***
 
 ***2. Mark Do:***
-    - ***Collecting and preprocessing the Pokémon dataset.***
-    - ***Will write code for cleaning the data (handling missing values, normalizing features).***
-    - ***Will also create visualizations that give an overview of the dataset and ensure it's ready for training.***
+- ***Collecting and preprocessing the Pokémon dataset.***
+- ***Will write code for cleaning the data (handling missing values, normalizing features).***
+- ***Will also create visualizations that give an overview of the dataset and ensure it's ready for training.***
 
 ***3. Guy Scafidi:***
-    - ***Comparing the outputs from different activation functions.***
-    - ***Will analyze and summarize the pros and cons of each activation function in terms of accuracy, training time, and convergence.***
-    - ***Will also help with final report writing and presenting results.***
+- ***Comparing the outputs from different activation functions.***
+- ***Will analyze and summarize the pros and cons of each activation function in terms of accuracy, training time, and convergence.***
+- ***Will also help with final report writing and presenting results.***
