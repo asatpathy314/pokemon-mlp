@@ -8,7 +8,7 @@ The project proposal document (this document) should not be too long, around 1 p
 
 1.  ***Abhishek Satpathy (cqa3ym)***
 
-2.  [___Micky Mouse (mkn4t)___]
+2.  ***Mark Do (mft6zc)***
 
 3.  [___Harry Potter (ncp4h)___]
 
