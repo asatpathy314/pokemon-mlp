@@ -28,7 +28,7 @@
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
-    - ***We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to         analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.***
+    - ***We will have to develop a pipeline to clean, split, and validate the data using the `pandas` library mixed with some `numpy`. Then in order to create the MLPs, we will use the `sklearn` library's in-built MLP, and we will adjust the parameters to change the activation function. In terms of visualization, we'll write out the data transformations and configuration ourselves with the help of `matplotlib`.***
 
 ## Roles
 You should also have a rough outline of how you will divide the work
