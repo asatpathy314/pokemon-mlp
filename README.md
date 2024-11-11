@@ -29,7 +29,7 @@
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
     - ***We will have to develop a pipeline to clean, split, and validate the data using the `pandas` library mixed with some `numpy`. This includes deciding how to handle missing values and encoding categorical variables. 
-    Then, we will use the MLPClassifier from sklearn but customize it by iterating over different activation functions (relu, tanh, logistic) to compare their performance. In terms of visualization, we'll write out the data     transformations and configuration ourselves with the help of `matplotlib`.***
+    Then, we will use the MLPClassifier from sklearn but customize it by iterating over different activation functions (relu, tanh, logistic) to compare their performance. In terms of visualization, we'll write out the data transformations and configuration ourselves with the help of `matplotlib`.***
 
 ## Roles
 You should also have a rough outline of how you will divide the work
