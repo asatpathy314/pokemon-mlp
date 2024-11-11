@@ -24,11 +24,11 @@
       
 3.  What hypothesis are you testing or what experiment are you
     performing
-    - ***The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on different pokemon types. After testing different types of the classification functions, we will determine the function which had the best optimization of pokemon types.***
+    - ***The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on different pokemon types. After testing different         types of the classification functions, we will determine the function which had the best optimization of pokemon types.***
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
-    - ***We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.***
+    - ***We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to         analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.***
 
 ## Roles
 You should also have a rough outline of how you will divide the work
