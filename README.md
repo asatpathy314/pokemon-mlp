@@ -10,25 +10,25 @@
 
 ## Project Title
 
-Pokémon Classifier: Determing the optimal Multi-Layer Perceptron (MLP) activation function for Pokémon type classification.
+***Pokémon Classifier: Determing the optimal Multi-Layer Perceptron (MLP) activation function for Pokémon type classification.***
 
 ## Description of project
 
 ***This project aims to investigate how different activation functions in multi-layer perceptron (MLP) networks affect classification performance. Specifically, we will focus on classifying a Pokémon's type from its sprite using a public dataset and comparing the error rates of various activation functions (e.g., ReLU, Sigmoid, Tanh). The goal is to identify which activation function yields the best classification results under similar conditions.***
 
 1.  What dataset(s) will you use
-    - We will use the following dataset of [Pokémon](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types/data?select=pokemon.csv).
+    - ***We will use the following dataset of [Pokémon](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types/data?select=pokemon.csv).***
 
 2.  What algorithm(s) will you test
     - ***We will test the effects of different activation functions for MLP networks on error rate in penguin classification.***
       
 3.  What hypothesis are you testing or what experiment are you
     performing
-    - The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on different pokemon types.
+    - ***The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on different pokemon types.***
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
-    - We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to           analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.
+    - ***We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.***
 
 ## Roles
 You should also have a rough outline of how you will divide the work
