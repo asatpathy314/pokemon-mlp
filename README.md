@@ -1,8 +1,4 @@
-# Project Proposal [___TEMPLATE___]
-
-[___Any text in square brackets like this one should either be deleted or substituted with your responses!___]
-
-The project proposal document (this document) should not be too long, around 1 page and not exceeding 2 pages.  Groups will get full credit on this assignment as long as you include all the requested information. ___Your responses should be in bold and italic.___ 
+# Project Proposal
 
 ## Group members
 
