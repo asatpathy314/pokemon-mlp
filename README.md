@@ -14,7 +14,7 @@ The project proposal document (this document) should not be too long, around 1 p
 
 ## Project Title
 
-[___From Magic to Machines: A Superpowered Approach to Character Recognition___]
+***"From Data to Predictions: A Deep Dive into Linear Regression Models"***
 
 ## Description of project
 
