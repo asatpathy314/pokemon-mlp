@@ -20,7 +20,7 @@
     - ***We will use the following dataset of [Pokémon](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types/data?select=pokemon.csv).***
 
 2.  What algorithm(s) will you test
-    - ***We will test the effects of different activation functions for MLP networks on error rate in penguin classification.***
+    - ***We will test the effects of different activation functions (ex: ReLU, Sigmoid, Tanh) for MLP networks on error rate in pokemon classification.***
       
 3.  What hypothesis are you testing or what experiment are you
     performing
