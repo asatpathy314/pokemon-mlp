@@ -6,7 +6,7 @@ The project proposal document (this document) should not be too long, around 1 p
 
 ## Group members
 
-1.  [___Superman (jl4a)___]
+1.  ***Abhishek Satpathy (cqa3ym)***
 
 2.  [___Micky Mouse (mkn4t)___]
 
