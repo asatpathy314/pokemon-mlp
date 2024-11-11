@@ -14,15 +14,7 @@ TODO
 
 ## Description of project
 
-In a few, short paragraphs, describe what you plan to do for your
-project. This does not need to be a very formal write-up, but it's
-important that we can understand your plan. 
-
 ***This project aims to investigate how different activation functions in multi-layer perceptron (MLP) networks affect classification performance. Specifically, we will focus on classifying a Pokémon's type from its sprite using a public dataset and comparing the error rates of various activation functions (e.g., ReLU, Sigmoid, Tanh). The goal is to identify which activation function yields the best classification results under similar conditions.***
-
-[___Brief project description___]
-
-Answer the following questions. (Repeat this information if you have already provided it above.)
 
 1.  What dataset(s) will you use
     - We will use the following dataset of [Pokémon](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types/data?select=pokemon.csv).
