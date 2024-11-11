@@ -32,7 +32,7 @@ Answer the following questions. (Repeat this information if you have already pro
       
 3.  What hypothesis are you testing or what experiment are you
     performing
-    - The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on penguins.
+    - The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on different pokemon types.
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
