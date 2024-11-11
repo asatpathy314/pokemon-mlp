@@ -32,20 +32,19 @@
     Then, we will use the MLPClassifier from sklearn but customize it by iterating over different activation functions (relu, tanh, logistic) to compare their performance. In terms of visualization, we'll write out the data transformations and configuration ourselves with the help of `matplotlib`.***
 
 ## Roles
-***
-1. Abhishek Satpathy
+
+***1. Abhishek Satpathy
     - Implementing the MLP model using scikit-learn.
     - Will test different activation functions (ReLU, Sigmoid, Tanh).
     - Will also handle model training and tuning hyperparameters.
-    - Will create visualizations to explain how each activation function impacts model performance.
+    - Will create visualizations to explain how each activation function impacts model performance.***
 
-3. Mark Do
+***2. Mark Do
     - Collecting and preprocessing the Pokémon dataset.
     - Will write code for cleaning the data (handling missing values, normalizing features).
-    - Will also create visualizations that give an overview of the dataset and ensure it's ready for training.
+    - Will also create visualizations that give an overview of the dataset and ensure it's ready for training.***
 
-4. Guy Scafidi:
+***3. Guy Scafidi:
     - Comparing the outputs from different activation functions.
     - Will analyze and summarize the pros and cons of each activation function in terms of accuracy, training time, and convergence.
-    - Will also help with final report writing and presenting results.
-***
+    - Will also help with final report writing and presenting results.***
