@@ -10,7 +10,7 @@ The project proposal document (this document) should not be too long, around 1 p
 
 2.  ***Mark Do (mft6zc)***
 
-3.  [___Harry Potter (ncp4h)___]
+3.  ***Guy Scafidi (tet8bx)***
 
 ## Project Title
 
