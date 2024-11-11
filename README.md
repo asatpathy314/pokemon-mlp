@@ -36,8 +36,7 @@ Answer the following questions. (Repeat this information if you have already pro
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
-    - [___We will write code for custom preprocessing and UI, result analysis, and kNN___]
-    - [___We will use scikit-learn for MLP and linear classification___]
+    - We will be using the Multi-layer perceptron code that was provided for us in the homeworks. However, we will be changing the activation functions of the multi-layer perceptron to           analyze which function performs the best when classifying pokemon types. We will have to preprocess the images and use sklearn to alter the multi-layer perceptron network.
 
 ## Roles
 You should also have a rough outline of how you will divide the work
