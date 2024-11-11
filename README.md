@@ -25,7 +25,7 @@ TODO
 Answer the following questions. (Repeat this information if you have already provided it above.)
 
 1.  What dataset(s) will you use
-    - We can generate the dataset using the guide in this [Medium article](https://medium.com/@asyafru/penguins-from-head-to-toe-how-penguins-can-help-you-master-image-classification-process-8be9cd68121d).
+    - We will use the following dataset of [Pokémon](https://www.kaggle.com/datasets/vishalsubbiah/pokemon-images-and-types/data?select=pokemon.csv).
 
 2.  What algorithm(s) will you test
     - ***We will test the effects of different activation functions for MLP networks on error rate in penguin classification.***
