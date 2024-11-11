@@ -10,7 +10,7 @@
 
 ## Project Title
 
-Determining the optimal activation function for Pokémon type classification.
+Pokémon Classifier: Determing the optimal Multi-Layer Perceptron (MLP) activation function for Pokémon type classification.
 
 ## Description of project
 
