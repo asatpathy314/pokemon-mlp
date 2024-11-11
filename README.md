@@ -33,7 +33,7 @@ www.kaggle.com/datasets/popculture/character-recognition)___]
       
 3.  What hypothesis are you testing or what experiment are you
     performing
-    - [___Combining methods improves character recognition accuracy.___]
+    - The experiment we will be performing will be testing different activation functions for a multi-layer perceptron classification on penguins.
 
 4.  What code will use write yourself vs. what is already provided in a
     library that you will call
