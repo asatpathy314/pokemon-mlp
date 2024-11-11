@@ -18,7 +18,7 @@ TODO
 
 ## Description of project
 
-TODO
+***This project aims to investigate how different activation functions in multi-layer perceptron (MLP) networks affect classification performance. Specifically, we will focus on classifying a Pokémon's type from its sprite using a public dataset and comparing the error rates of various activation functions (e.g., ReLU, Sigmoid, Tanh). The goal is to identify which activation function yields the best classification results under similar conditions.***
 
 [___Brief project description___]
 
