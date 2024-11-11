@@ -14,11 +14,11 @@ The project proposal document (this document) should not be too long, around 1 p
 
 ## Project Title
 
-***"From Data to Predictions: A Deep Dive into Linear Regression Models"***
+TODO
 
 ## Description of project
 
-This project will focus on an in-depth exploration of Multi-Layer Perceptron (MLP) networks, a fundamental type of artificial neural network. We will investigate the architecture, explaining it from the ground up, and show visual examples of how the network works.
+TODO
 
 [___Brief project description___]
 
@@ -29,7 +29,8 @@ Answer the following questions. (Repeat this information if you have already pro
 www.kaggle.com/datasets/popculture/character-recognition)___]
 
 2.  What algorithm(s) will you test
-    - [___kNN, MLP, linear classification___]
+    - ***We will test the effects of different activation functions for MLP networks on error rate in penguin classification.***
+      
 3.  What hypothesis are you testing or what experiment are you
     performing
     - [___Combining methods improves character recognition accuracy.___]
