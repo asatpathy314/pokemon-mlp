@@ -18,9 +18,7 @@ The project proposal document (this document) should not be too long, around 1 p
 
 ## Description of project
 
-In a few, short paragraphs, describe what you plan to do for your
-project. This does not need to be a very formal write-up, but it's
-important that we can understand your plan. 
+This project will focus on an in-depth exploration of Multi-Layer Perceptron (MLP) networks, a fundamental type of artificial neural network. We will investigate the architecture, explaining it from the ground up, and show visual examples of how the network works.
 
 [___Brief project description___]
 
