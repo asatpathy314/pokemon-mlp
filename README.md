@@ -10,7 +10,7 @@
 
 ## Project Title
 
-TODO
+Determining the optimal activation function for Pokémon type classification.
 
 ## Description of project
 
