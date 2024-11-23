@@ -10,7 +10,7 @@
 
 ## Project Title
 
-***Pokémon Classifier: Determing the optimal Multi-Layer Perceptron (MLP) activation function for Pokémon type classification.***
+***Pokémon Classifier: Utilizing Bayesian Hyperparameter Optimization to Find the Optimal hyperparameter Configuration for Pokémon type classification leveraging a Multi-Layer Perceptron (MLP).***
 
 ## Description of project
 
